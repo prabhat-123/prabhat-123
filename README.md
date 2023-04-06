@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prabhat-123.
-- I am a ML Engineer with 2+ years of experience in predictive analytics, time series and computer vision. Passionate about data who loves:
+- I am a ML Engineer with 4+ years of experience in predictive analytics, time series and computer vision. Passionate about data who loves:
 1) Researching and Carrying out experiments with data and models,
 2) Designing and Engineering systems capable of machine learning,
 3) Deploying ML models into production, maintaining and upgrading models over time.
